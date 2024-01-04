@@ -48,8 +48,8 @@ namespace JesterDebris
 
             Logger.Log(LogLevel.Info, $"{PLUGIN_GUID} is starting!");
 
-            Crank = SoundTool.GetAudioClip(Path.GetDirectoryName(Info.Location), "WindingDebris.wav");
-            Scream = SoundTool.GetAudioClip(Path.GetDirectoryName(Info.Location), "ScreamingDebris.wav");
+            Crank = SoundTool.GetAudioClip(Path.GetDirectoryName(Info.Location), "crankwich.wav");
+            Scream = SoundTool.GetAudioClip(Path.GetDirectoryName(Info.Location), "debream.wav");
 
             _harmony.PatchAll(typeof(JesterAiPatch));
             _harmony.PatchAll(typeof(JesterDebris));

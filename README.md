@@ -11,3 +11,5 @@ Changes the Jester's cranking and scream audio into Greenwich Debris by zyukucho
 
 ## Changes
 - 1.0.0: Mod creation
+- 1.0.1: Attempt on fixing audio issue
+- 1.0.2: A second attempt on fixing the audio

@@ -2,7 +2,7 @@
 Changes the Jester's cranking and scream audio into Greenwich Debris by zyukucho (COOL&CREATE) with configurations available for enabling/disabling and volume control for both audio.<br>
 
 ## Credits
-- Used [JesterFree by AriDeve] (https://github.com/AriDeve/JesterFree) for 99% of the code
+- Used [JesterFree by AriDeve](https://github.com/AriDeve/JesterFree) for 99% of the code
 - LCSoundTool by no00ob for the blessing of the API
 - Greenwich Debris by zyukucho (COOL&CREATE) 
 
